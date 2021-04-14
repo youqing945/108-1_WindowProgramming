@@ -1,0 +1,6 @@
+C:\Users\youqi\Desktop\Practice2-2\Practice2-2\bin\Debug\Practice2-2.exe.config
+C:\Users\youqi\Desktop\Practice2-2\Practice2-2\bin\Debug\Practice2-2.exe
+C:\Users\youqi\Desktop\Practice2-2\Practice2-2\bin\Debug\Practice2-2.pdb
+C:\Users\youqi\Desktop\Practice2-2\Practice2-2\obj\Debug\Practice2-2.csprojResolveAssemblyReference.cache
+C:\Users\youqi\Desktop\Practice2-2\Practice2-2\obj\Debug\Practice2-2.exe
+C:\Users\youqi\Desktop\Practice2-2\Practice2-2\obj\Debug\Practice2-2.pdb

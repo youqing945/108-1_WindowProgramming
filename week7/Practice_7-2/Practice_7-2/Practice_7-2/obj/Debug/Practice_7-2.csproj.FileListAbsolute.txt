@@ -1,0 +1,9 @@
+C:\Users\youqi\Desktop\Practice_7-2\Practice_7-2\bin\Debug\Practice_7-2.exe.config
+C:\Users\youqi\Desktop\Practice_7-2\Practice_7-2\bin\Debug\Practice_7-2.exe
+C:\Users\youqi\Desktop\Practice_7-2\Practice_7-2\bin\Debug\Practice_7-2.pdb
+C:\Users\youqi\Desktop\Practice_7-2\Practice_7-2\obj\Debug\Practice_7-2.csprojResolveAssemblyReference.cache
+C:\Users\youqi\Desktop\Practice_7-2\Practice_7-2\obj\Debug\Practice_7_2.Properties.Resources.resources
+C:\Users\youqi\Desktop\Practice_7-2\Practice_7-2\obj\Debug\Practice_7-2.csproj.GenerateResource.Cache
+C:\Users\youqi\Desktop\Practice_7-2\Practice_7-2\obj\Debug\Practice_7-2.exe
+C:\Users\youqi\Desktop\Practice_7-2\Practice_7-2\obj\Debug\Practice_7-2.pdb
+C:\Users\youqi\Desktop\Practice_7-2\Practice_7-2\obj\Debug\Practice_7_2.Form1.resources
